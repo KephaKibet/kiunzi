@@ -16,6 +16,9 @@ body {
   background-color: #ffffff;
   height: 100vh;
   padding: 2rem;
+  /* background-image: url("vault.jpg"); */
+  background-size:contain;
+  /* overflow:hidden; */
 }
 
 nav {
